@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+/* <!-- global message section --> */
+.global-message {
+  background: skyblue;
+  height: 2.5rem;
+}
+
+.global-message > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* <!-- nav bar --> */
+
+/* <!-- hero --> */
+
+/* <!-- latest posts --> */
+
+/* <!-- recommended destination --> */
+
+/* <!-- subscribe --> */
+
+/* <!-- footer --> */
